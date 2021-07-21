@@ -1,0 +1,58 @@
+.footer {
+    padding-top: 50px;
+    background-image: url(src/assets/img/girl.jpg);
+    width: 100%;
+    height: 600px;
+    position: absolute;
+    background-size: cover;
+}
+
+.des1 {
+    margin: 20px;
+    text-decoration: rgb(22, 7, 22);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(253, 253, 253);
+}
+
+.dtitle {
+    color: red;
+    font-weight: bolder;
+    font-size: 26px;
+}
+
+.subtitle {
+    color: rgb(250, 249, 249);
+    font-size: 20px;
+}
+
+.description {
+    color: rgb(243, 237, 237);
+    font-size: 16px;
+}
+
+.price {
+    display: inline;
+    font-size: 26px;
+}
+
+.decoration {
+    display: inline;
+    text-decoration: line-through;
+    font-size: 20px;
+    color: rgb(247, 241, 241);
+}
+
+button {
+    margin-top: 10px;
+    font-size: 20px;
+    width: 200px;
+}
+
+.firstDiv {
+    background-image: url(src/assets/img/ring4.png);
+    background-position: center;
+    background-size: cover;
+    width: 350px;
+    height: 350px;
+}
