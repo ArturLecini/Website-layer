@@ -50,9 +50,10 @@ button {
 }
 
 .firstDiv {
-    background-image: url(src/assets/img/ring4.png);
+    background-image: url(src/assets/img/ring5.png);
     background-position: center;
     background-size: cover;
     width: 350px;
     height: 350px;
+    background-color: white;
 }
