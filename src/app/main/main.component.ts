@@ -10,9 +10,9 @@ export class MainComponent implements OnInit {
   cols : number;
 
   gridByBreakpoint = {
-    xl: 4,
-    lg: 3,
-    md: 3,
+    xl: 6,
+    lg: 4,
+    md: 2,
     sm: 2,
     xs: 1
   }
